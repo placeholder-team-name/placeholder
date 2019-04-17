@@ -20,14 +20,20 @@ We can split up our design in five modules. Every module consists out of multipl
 * Handoff
 * Push Notifications
 
-## Module #1: Authentication
+### Module #1: Authentication
 Users have to sign in when they use our web app for the first time. To make it easy for ourselves as well as the user, we will ask them to sign in with Google. For this reason, there is no need for a 'Forgot Password' flow (module). The only overhead comes from the user being able to prematurely quit the sign-in process.
 
-## Module #2: Authoring Experience
+### Module #2: Authoring Experience
 Besides getting the user to come back to our app and making sure they send an email once a month, the email's content is the most important. The 'Authoring Experience' is about making writing as easy as possible by subtly guiding the user's writing process. We do this using prompts that change based on day of the month and the time user checks our app. Since we do not have a lot of time, we will focus on enabling the most important types of content: text and images. On top of this, we allow users to insert weather information because our research has shown parents are interested in minuite details like this.
 
-## Module #3: Contact Management
+### Module #3: Contact Management
 Users need to control where their email goes. Every family member will receive the same email in our MVP. The list of family members is unlikely to change, which is why users should not need to specify it every time they want to send an email. That would also increase an email's completion rate. Contacts are complex because they need to support CRUD operations (update, delete, etc.) and the user's input can contain mistakes.
 
-## Module #4: Handoff
-## Module #5: Push Notifications
+### Module #4: Handoff
+Students should be able to send their email at any time in the month. Our design needs to support the user manually deciding to send their email, and our app prompting them to send it when the month is almost over. It's in the handoff face that we need to be fault tolerant. A student who missed the 'deadline' by a few months should still be able to send their work.
+
+There is some complexity from an interopability perspective. There is no guarantee that a user's email gets sent successfully. That is why we need to notify users when we failed to send their email and offer them to retry.
+
+### Module #5: Push Notifications
+
+## Creative Inspiration
