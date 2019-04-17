@@ -21,7 +21,11 @@ We can split up our design in five modules. Every module consists out of multipl
 * Push Notifications
 
 ## Module #1: Authentication
+Users have to sign in when they use our web app for the first time. To make it easy for ourselves as well as the user, we will ask them to sign in with Google. For this reason, there is no need for a 'Forgot Password' flow (module). The only overhead comes from the user being able to prematurely quit the sign-in process.
+
 ## Module #2: Authoring Experience
+
+
 ## Module #3: Contact Management
 ## Module #4: Handoff
 ## Module #5: Push Notifications
