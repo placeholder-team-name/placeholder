@@ -27,5 +27,7 @@ Users have to sign in when they use our web app for the first time. To make it e
 Besides getting the user to come back to our app and making sure they send an email once a month, the email's content is the most important. The 'Authoring Experience' is about making writing as easy as possible by subtly guiding the user's writing process. We do this using prompts that change based on day of the month and the time user checks our app. Since we do not have a lot of time, we will focus on enabling the most important types of content: text and images. On top of this, we allow users to insert weather information because our research has shown parents are interested in minuite details like this.
 
 ## Module #3: Contact Management
+Users need to control where their email goes. Every family member will receive the same email in our MVP. The list of family members is unlikely to change, which is why users should not need to specify it every time they want to send an email. That would also increase an email's completion rate. Contacts are complex because they need to support CRUD operations (update, delete, etc.) and the user's input can contain mistakes.
+
 ## Module #4: Handoff
 ## Module #5: Push Notifications
