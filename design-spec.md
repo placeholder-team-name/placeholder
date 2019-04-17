@@ -19,3 +19,9 @@ We can split up our design in five modules. Every module consists out of multipl
 * Contact Management
 * Handoff
 * Push Notifications
+
+## Module #1: Authentication
+## Module #2: Authoring Experience
+## Module #3: Contact Management
+## Module #4: Handoff
+## Module #5: Push Notifications
