@@ -35,5 +35,6 @@ Students should be able to send their email at any time in the month. Our design
 There is some complexity from an interopability perspective. There is no guarantee that a user's email gets sent successfully. That is why we need to notify users when we failed to send their email and offer them to retry.
 
 ### Module #5: Push Notifications
+We will use push notifications to remind students to work on their newsletter throughout the month and ultimately send it. We will rely on the OS' push notifications, meaning that from a design perspective the only challenge is the content.
 
 ## Creative Inspiration
