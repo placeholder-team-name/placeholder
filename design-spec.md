@@ -51,6 +51,12 @@ We need to make it as easy as possible to fill the email with good content. We d
 <img src="http://downloads.vincentmvdm.com/preview1.jpg" width="320" />
 *preview - user views content so far, preview - empty state*
 
+<br />
+<br />
+
+<img src="http://downloads.vincentmvdm.com/write-last.JPG" width="320" />
+*write - new month*
+
 ### Module #3: Recipients
 Users need to control who receives their email. Every family member gets the same email. Users should only have to write someone's email once. That is why we give them access to a recipient list. From a design perspective, there's many states to the recipient list because the user's input needs to be correct.
 
@@ -101,3 +107,6 @@ Students should be able to send their email at any time. Our app prompts them wh
 
 ### Module #5: Push Notifications
 The app uses push notifications to remind students to work on their newsletter and ultimately send it. The student's OS determined the look and feel of these notifications. Our challenge is their contents.
+
+<img src="http://downloads.vincentmvdm.com/push.JPG" width="320" />
+*push notification*
