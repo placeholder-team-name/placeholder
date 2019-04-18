@@ -42,6 +42,21 @@ We need to make it as easy as possible to fill the email with good content. We d
 ### Module #3: Recipients
 Users need to control who receives their email. Every family member gets the same email. Users should only have to write someone's email once. That is why we give them access to a recipient list. From a design perspective, there's many states to the recipient list because the user's input needs to be correct.
 
+<img src="http://downloads.vincentmvdm.com/recipients-1.JPG" width="320" />
+*recipients - list view*
+
+<br>
+<br>
+
+<img src="http://downloads.vincentmvdm.com/recipients-2.JPG" width="320" />
+*recipients - new*
+
+<br>
+<br>
+
+<img src="http://downloads.vincentmvdm.com/recipients-3.JPG" width="320" />
+*recipients - detail view, recipients - edit, recipients - edit but invalid email, recipients - edit but recipient already exists*
+
 ### Module #4: Send
 Students should be able to send their email at any time. Our app prompts them when the month is almost over. A lot can go wrong while sending the email. The app notifies users when their email failed to send and offers them to retry.
 
