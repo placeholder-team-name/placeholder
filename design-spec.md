@@ -38,5 +38,3 @@ Students should be able to send their email at any time. Our app prompts them wh
 
 ### Module #5: Push Notifications
 The app uses push notifications to remind students to work on their newsletter and ultimately send it. The student's OS determined the look and feel of these notifications. Our challenge is their contents.
-
-## Creative Inspiration
