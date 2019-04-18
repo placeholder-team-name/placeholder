@@ -8,26 +8,14 @@ Especially parents cannot wait to hear from their children. We talked to several
 The good news is that many college students already crave sharing more honestly. Many of them have 'Finstas', secondary Instagram accounts on which they talk in depth about what's on their mind. Our challenge is to give students the tools to easily extend this information to their family members.
 
 ## Solution
-Our hypothesis is that sharing information 
+Our hypothesis is that regular, unfiltered sharing of information fosters connection. Our app will help college students do that by making it easy for them to write a monthly newsletter. Students add to this newsletter throughout the month. Our app will also occasionally prompt them to do so. At the end of every month, the app asks students to send the newsletter to their family members and start on next month's update.
 
-Our app will help college students stay in touch with their family by making it easy for them to write a monthly newsletter about their life.
-
-
- This newsletter gives an 
-
-
-
-
-
-We are going to help students stay in touch with their family by building a web app. Our app helps students author a monthly newsletter about their life. At the end of every month, the app will prompt students to send the email to their family members. The result is that these family members will feel closer to the student. Before, they only heard from their loved one every half year. Now, they hear about their highs, lows, and day-to-day every month.
-
-
-
-
-
+The student's family members will feel closer to them. Before, they only heard from their loved one approximately every half year. Now, they hear about their highs, lows, and day-to-day every month.
 
 ## Designing Against Time
-Our audience is college students. They have both limited time and attention and are frequently in distracting environments. Family can quickly fall of as a priority, which is why the problem exists in the first place. Our biggest challenge is solving our problem in spite of these constraints. We need to motivate students to a) want to come back to our app and b) actually do so. Our design needs to be fault tolerant. For example, a student who works on a newsletter an entire month but forgets to send it on the last day should be able to finish their work regardless and quickly start on the new month.
+Our audience are college students. They have limited time and attention. They are also frequently in distracting environments. Family quiickly falls off as a priority. We need to motivate students to a) want to come back to our app and b) actually come back to it. Our app does that by making the writing process easy and fun. On top of this, we it uses push notifications to occasionally remind students to check in.
+
+One of our focuses is fault tolerance. It is unrealistic to expect students to write on a daily basis, and students will sometimes forget to send their monthly newsletter. Our app keeps this in mind and helps students finish their newsletter in spite of what comes up in their lives.
 
 ## The Five Modules
 We can split up our design in five modules. Every module consists out of multiple screens and can become more simple or complex based on where we are in the month as well as the user's progress. The five modules are:
