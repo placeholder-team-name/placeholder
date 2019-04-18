@@ -66,9 +66,6 @@ Students should be able to send their email at any time. Our app prompts them wh
 <br />
 <br />
 
-<img src="http://downloads.vincentmvdm.com/send1.JPG" width="320" />
-*send - month almost over, send - month over*
-
 <img src="http://downloads.vincentmvdm.com/send2.JPG" width="320" />
 *send - user dismissed month over modal*
 
