@@ -1,14 +1,30 @@
 # Design Specification
 
-Note from V: Started. Continuing after class!
-
 ## Problem
-College students lack the time and effort to keep important people in their lives updated, especially their family members. Existing social solutions only cover brief, filtered moments in life which are tailored for a narrow audience. This creates a communication gap between students and their family members, making it hard to maintain this important relationship.
+College students lack the time and energy to keep their family updated. Their family can follow them on social media. Unfortunately, the content their loved one posts on there is not always an accurate reflection of life. Few people consistently post when they have good news to share, and even fewer people choose to share when life is not going their way. Yet it is the unfiltered sharing of these highs and lows that drives connection.
 
-TODO: Refine and add proof
+Especially parents cannot wait to hear from their children. We talked to several parents and found that they want to know about serious topics, such as what's bothering their child, as well as the seemingly banal, like 'Is my child eating well?'
+
+The good news is that many college students already crave sharing more honestly. Many of them have 'Finstas', secondary Instagram accounts on which they talk in depth about what's on their mind. Our challenge is to give students the tools to easily extend this information to their family members.
 
 ## Solution
+Our hypothesis is that sharing information 
+
+Our app will help college students stay in touch with their family by making it easy for them to write a monthly newsletter about their life.
+
+
+ This newsletter gives an 
+
+
+
+
+
 We are going to help students stay in touch with their family by building a web app. Our app helps students author a monthly newsletter about their life. At the end of every month, the app will prompt students to send the email to their family members. The result is that these family members will feel closer to the student. Before, they only heard from their loved one every half year. Now, they hear about their highs, lows, and day-to-day every month.
+
+
+
+
+
 
 ## Designing Against Time
 Our audience is college students. They have both limited time and attention and are frequently in distracting environments. Family can quickly fall of as a priority, which is why the problem exists in the first place. Our biggest challenge is solving our problem in spite of these constraints. We need to motivate students to a) want to come back to our app and b) actually do so. Our design needs to be fault tolerant. For example, a student who works on a newsletter an entire month but forgets to send it on the last day should be able to finish their work regardless and quickly start on the new month.
