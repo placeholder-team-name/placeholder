@@ -33,6 +33,8 @@ We need to make it as easy as possible to fill the email with good content. We d
 <img src="http://downloads.vincentmvdm.com/write-preview1.jpg" width="320" />
 *write - empty state, write - user added content, write - user added content and came back on a different day, write - user tried uploading image but it's too big*
 
+<br />
+
 <img src="http://downloads.vincentmvdm.com/preview1.jpg" width="320" />
 *preview - user views content so far, preview - empty state*
 
