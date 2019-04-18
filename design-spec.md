@@ -12,8 +12,8 @@ Our hypothesis is that regular, unfiltered sharing of information fosters connec
 
 The student's family members will feel closer to them. Before, they only heard from their loved one approximately every half year. Now, they hear about their highs, lows, and day-to-day every month.
 
-## Designing Against Time
-Our audience are college students. They have limited time and attention. They are also frequently in distracting environments. Family quiickly falls off as a priority. We need to motivate students to a) want to come back to our app and b) actually come back to it. Our app does that by making the writing process easy and fun. On top of this, we it uses push notifications to occasionally remind students to check in.
+## Designing for Real Life
+Our audience are college students. They have limited time and attention. They are also frequently in distracting environments. Family quickly falls off as a priority. We need to motivate students to a) want to come back to our app and b) actually come back to it. Our app does that by making the writing process easy and fun. On top of this, it uses push notifications to occasionally remind students to check in.
 
 One of our focuses is fault tolerance. It is unrealistic to expect students to write on a daily basis, and students will sometimes forget to send their monthly newsletter. Our app keeps this in mind and helps students finish their newsletter in spite of what comes up in their lives.
 
