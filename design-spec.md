@@ -30,6 +30,12 @@ Users have to log in when they use our app for the first time. We will ask them 
 ### Module #2: Write and Preview
 We need to make it as easy as possible to fill the email with good content. We do this by subtly guiding the user's writing process via prompts. These prompts change based on day of month and time of day. We support the most important types of content: text and images.
 
+<img src="http://downloads.vincentmvdm.com/write-preview1.jpg" width="320" />
+*write - empty state, write - user added content, write - user added content and came back on a different day, write - user tried uploading image but it's too big*
+
+<img src="http://downloads.vincentmvdm.com/preview1.jpg" width="320" />
+*preview - user views content so far, preview - empty state*
+
 ### Module #3: Recipients
 Users need to control who receives their email. Every family member gets the same email. Users should only have to write someone's email once. That is why we give them access to a recipient list. From a design perspective, there's many states to the recipient list because the user's input needs to be correct.
 
