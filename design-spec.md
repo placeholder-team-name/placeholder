@@ -27,6 +27,12 @@ Users have to log in when they use our app for the first time. We will ask them 
 <img src="http://downloads.vincentmvdm.com/login.jpg" width="320" />
 *splash screen, login screen, login screen - user cancelled Google login, session expired*
 
+<img src="http://downloads.vincentmvdm.com/app-1.JPG" width="320" />
+*app loading state*
+
+<img src="http://downloads.vincentmvdm.com/app-1.JPG" width="320" />
+*app error state*
+
 ### Module #2: Write and Preview
 We need to make it as easy as possible to fill the email with good content. We do this by subtly guiding the user's writing process via prompts. These prompts change based on day of month and time of day. We support the most important types of content: text and images.
 
