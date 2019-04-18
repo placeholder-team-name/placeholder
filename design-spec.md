@@ -27,10 +27,16 @@ Users have to log in when they use our app for the first time. We will ask them 
 <img src="http://downloads.vincentmvdm.com/login.jpg" width="320" />
 *splash screen, login screen, login screen - user cancelled Google login, session expired*
 
+<br />
+<br />
+
 <img src="http://downloads.vincentmvdm.com/app-1.JPG" width="320" />
 *app loading state*
 
-<img src="http://downloads.vincentmvdm.com/app-1.JPG" width="320" />
+<br />
+<br />
+
+<img src="http://downloads.vincentmvdm.com/app-2.JPG" width="320" />
 *app error state*
 
 ### Module #2: Write and Preview
