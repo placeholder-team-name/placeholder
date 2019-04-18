@@ -24,8 +24,7 @@ We can split up our design in five modules:
 ### Module #1: Login
 Users have to log in when they use our app for the first time. We will ask them to sign in with Google to make it easy for them as well as ourselves. Hence, there is no 'Forget Password' flow. The only overhead comes from the user being able to prematurely quit the sign-in process.
 
-!["Module 1: Login"](http://downloads.vincentmvdm.com/login.jpg "Module 1: Login")
-
+<img src="http://downloads.vincentmvdm.com/login.jpg" width="320" />
 
 ### Module #2: Write and Preview
 We need to make it as easy as possible to fill the email with good content. We do this by subtly guiding the user's writing process via prompts. These prompts change based on day of month and time of day. We support the most important types of content: text and images.
