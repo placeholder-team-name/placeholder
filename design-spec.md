@@ -3,7 +3,7 @@
 ## Problem
 College students lack the time and energy to keep their family updated. Their family can follow them on social media. Unfortunately, the content their loved one posts on there is not always an accurate reflection of life. Few people consistently post when they have good news to share, and even fewer people choose to share when life is not going their way. Yet it is the unfiltered sharing of these highs and lows that drives connection.
 
-Especially parents cannot wait to hear from their children. We talked to several parents and found that they want to know about serious topics, such as what's bothering their child, as well as the seemingly banal, like 'Is my child eating well?'
+Parents especially cannot wait to hear from their children. We talked to several parents and found that they want to know about serious topics, such as what's bothering their child, as well as the seemingly banal, like 'Is my child eating well?'
 
 The good news is that many college students already crave sharing more honestly. Many of them have 'Finstas', secondary Instagram accounts on which they talk in depth about what's on their mind. Our challenge is to give students the tools to easily extend this information to their family members.
 
