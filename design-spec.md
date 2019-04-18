@@ -45,5 +45,17 @@ Users need to control who receives their email. Every family member gets the sam
 ### Module #4: Send
 Students should be able to send their email at any time. Our app prompts them when the month is almost over. A lot can go wrong while sending the email. The app notifies users when their email failed to send and offers them to retry.
 
+<img src="http://downloads.vincentmvdm.com/send1.JPG" width="320" />
+*send - month almost over, send - month over*
+
+<br />
+<br />
+
+<img src="http://downloads.vincentmvdm.com/send1.JPG" width="320" />
+*send - month almost over, send - month over*
+
+<img src="http://downloads.vincentmvdm.com/send2.JPG" width="320" />
+*send - user dismissed month over modal*
+
 ### Module #5: Push Notifications
 The app uses push notifications to remind students to work on their newsletter and ultimately send it. The student's OS determined the look and feel of these notifications. Our challenge is their contents.
