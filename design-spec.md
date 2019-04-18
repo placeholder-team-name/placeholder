@@ -81,5 +81,23 @@ Students should be able to send their email at any time. Our app prompts them wh
 <img src="http://downloads.vincentmvdm.com/send2.JPG" width="320" />
 *send - user dismissed month over modal*
 
+<br>
+<br>
+
+<img src="http://downloads.vincentmvdm.com/send-3.JPG" width="320" />
+*send - review email*
+
+<br>
+<br>
+
+<img src="http://downloads.vincentmvdm.com/send-4.JPG" width="320" />
+*send - sending email, send - success*
+
+<br>
+<br>
+
+<img src="http://downloads.vincentmvdm.com/send-5.JPG" width="320" />
+*send - sending email, send - error*
+
 ### Module #5: Push Notifications
 The app uses push notifications to remind students to work on their newsletter and ultimately send it. The student's OS determined the look and feel of these notifications. Our challenge is their contents.
