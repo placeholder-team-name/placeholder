@@ -8,7 +8,7 @@ Especially parents cannot wait to hear from their children. We talked to several
 The good news is that many college students already crave sharing more honestly. Many of them have 'Finstas', secondary Instagram accounts on which they talk in depth about what's on their mind. Our challenge is to give students the tools to easily extend this information to their family members.
 
 ## Solution
-Our hypothesis is that regular, unfiltered sharing of information fosters connection. Our app will help college students do that by making it easy for them to write a monthly newsletter. Students add to this newsletter throughout the month. Our app will also occasionally prompt them to do so. At the end of every month, the app asks students to send the newsletter to their family members and start on next month's update.
+Our hypothesis is that regular, unfiltered sharing of information fosters connection. Our app will help college students do that by making writing a monthly newsletter easy. Students add to this newsletter throughout the month. Our app will also occasionally prompt them to do so. At the end of every month, the app asks students to send the newsletter to their family members and start on next month's update.
 
 The student's family members will feel closer to them. Before, they only heard from their loved one approximately every half year. Now, they hear about their highs, lows, and day-to-day every month.
 
