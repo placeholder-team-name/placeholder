@@ -8,39 +8,32 @@ Especially parents cannot wait to hear from their children. We talked to several
 The good news is that many college students already crave sharing more honestly. Many of them have 'Finstas', secondary Instagram accounts on which they talk in depth about what's on their mind. Our challenge is to give students the tools to easily extend this information to their family members.
 
 ## Solution
-Our hypothesis is that regular, unfiltered sharing of information fosters connection. Our app will help college students do that by making writing a monthly newsletter easy. Students add to this newsletter throughout the month. Our app will also occasionally prompt them to do so. At the end of every month, the app asks students to send the newsletter to their family members and start on next month's update.
+Our hypothesis is that regular, unfiltered sharing of information fosters connection. Our app will help college students do that by making writing a monthly newsletter easy. Students add to this newsletter throughout the month. Our app will also occasionally prompt them to do so. At the end of every month, the app asks students to send the newsletter to their family members and start on next month's update. The student's family members will feel closer to them. Before, they only heard from their loved one approximately every half year. Now, they hear about their highs, lows, and day-to-day every month.
 
-The student's family members will feel closer to them. Before, they only heard from their loved one approximately every half year. Now, they hear about their highs, lows, and day-to-day every month.
-
-## Designing for Real Life
-Our audience are college students. They have limited time and attention. They are also frequently in distracting environments. Family quickly falls off as a priority. We need to motivate students to a) want to come back to our app and b) actually come back to it. Our app does that by making the writing process easy and fun. On top of this, it uses push notifications to occasionally remind students to check in.
-
-One of our focuses is fault tolerance. It is unrealistic to expect students to write on a daily basis, and students will sometimes forget to send their monthly newsletter. Our app keeps this in mind and helps students finish their newsletter in spite of what comes up in their lives.
+College students have limited limited time and attention. They are also frequently in distracting environments. Family quickly falls off as a priority. We need to motivate students to a) want to come back to our app and b) actually come back to it. Our app does that by making the writing process easy and fun. On top of this, it uses push notifications to occasionally remind students to check in. One of our focuses is fault tolerance. It is unrealistic to expect students to write on a daily basis, and students will sometimes forget to send their monthly newsletter. Our app keeps this in mind and helps students finish their newsletter in spite of what comes up in their lives.
 
 ## The Five Modules
-We can split up our design in five modules. Every module consists out of multiple screens and can become more simple or complex based on where we are in the month as well as the user's progress. The five modules are:
+We can split up our design in five modules:
 
-* Authentication
-* Authoring Experience
-* Contact Management
-* Handoff
+* Login
+* Write and Preview
+* Recipients
+* Send
 * Push Notifications
 
-### Module #1: Authentication
-Users have to sign in when they use our web app for the first time. To make it easy for ourselves as well as the user, we will ask them to sign in with Google. For this reason, there is no need for a 'Forgot Password' flow (module). The only overhead comes from the user being able to prematurely quit the sign-in process.
+### Module #1: Login
+Users have to log in when they use our app for the first time. We will ask them to sign in with Google to make it easy for them as well as ourselves. Hence, there is no 'Forget Password' flow. The only overhead comes from the user being able to prematurely quit the sign-in process.
 
-### Module #2: Authoring Experience
-Besides getting the user to come back to our app and making sure they send an email once a month, the email's content is the most important. The 'Authoring Experience' is about making writing as easy as possible by subtly guiding the user's writing process. We do this using prompts that change based on day of the month and the time user checks our app. Since we do not have a lot of time, we will focus on enabling the most important types of content: text and images. On top of this, we allow users to insert weather information because our research has shown parents are interested in minuite details like this.
+### Module #2: Write and Preview
+We need to make it as easy as possible to fill the email with good content. We do this by subtly guiding the user's writing process via prompts. These prompts change based on day of month and time of day. We support the most important types of content: text and images.
 
-### Module #3: Contact Management
-Users need to control where their email goes. Every family member will receive the same email in our MVP. The list of family members is unlikely to change, which is why users should not need to specify it every time they want to send an email. That would also increase an email's completion rate. Contacts are complex because they need to support CRUD operations (update, delete, etc.) and the user's input can contain mistakes.
+### Module #3: Recipients
+Users need to control who receives their email. Every family member gets the same email. Users should only have to write someone's email once. That is why we give them access to a recipient list. From a design perspective, there's many states to the recipient list because the user's input needs to be correct.
 
-### Module #4: Handoff
-Students should be able to send their email at any time in the month. Our design needs to support the user manually deciding to send their email, and our app prompting them to send it when the month is almost over. It's in the handoff face that we need to be fault tolerant. A student who missed the 'deadline' by a few months should still be able to send their work.
-
-There is some complexity from an interopability perspective. There is no guarantee that a user's email gets sent successfully. That is why we need to notify users when we failed to send their email and offer them to retry.
+### Module #4: Send
+Students should be able to send their email at any time. Our app prompts them when the month is almost over. A lot can go wrong while sending the email. The app notifies users when their email failed to send and offers them to retry.
 
 ### Module #5: Push Notifications
-We will use push notifications to remind students to work on their newsletter throughout the month and ultimately send it. We will rely on the OS' push notifications, meaning that from a design perspective the only challenge is the content.
+The app uses push notifications to remind students to work on their newsletter and ultimately send it. The student's OS determined the look and feel of these notifications. Our challenge is their contents.
 
 ## Creative Inspiration
