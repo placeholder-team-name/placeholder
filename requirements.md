@@ -22,7 +22,7 @@
 
 ## Write and Preview
 * The user must be authenticated to see the write and preview page.
-* Once the content has finished downloading, the software immediately shows the current user’s notebook content
+* Once the content has finished downloading, the software immediately shows the current user’s write tab, explained below.
 * The notebook menu has a “write” and “preview” tab that the user can choose. The default tab is “write”. 
 * In the Write tab, there is an insert image button as well as a send button right above the navigation menu at the bottom. This insert image button is a picture icon, while the send button just has the text “SEND” (functionality defined below)
 * If the user has not input anything for that day, the software will guide the user’s writing process by providing a prompt in gray text in the Write tab. 
