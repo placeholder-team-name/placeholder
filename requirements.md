@@ -4,7 +4,7 @@
 - [x] The software will have a palette *that looks generally consistent* ~enforced~ throughout all views of the application, which will be determined later.
   - **COMPLETE** Although basic, because our focus was development, our app follows a black/white/blue color scheme. We use styled-system in combination with a theme.js file to enforce our design system.
 - [x] The software will adhere to ~all~ *as many* Web Content Accessibility Guidelines *as possible*.
- - **IMPOSSIBLE SO REVISED** We needed to spend more time on providing actual functionality to the application, and thus would not have time to spend on adhering to ALL the web content accessibility guidelines. We tried our best to make the application generally accessible. The problem with the original requirement and the word "all" is that it would take an entire engineering team several weeks to do.
+  - **IMPOSSIBLE SO REVISED** We needed to spend more time on providing actual functionality to the application, and thus would not have time to spend on adhering to ALL the web content accessibility guidelines. We tried our best to make the application generally accessible. The problem with the original requirement and the word "all" is that it would take an entire engineering team several weeks to do.
   - [x] ~The software will never have any view containing a contrast ratio of below 4.5:1~
   - **COMPLETE**
 - [x] ~All UI text will be black or white, chosen by whichever has a better contrast ratio.~
