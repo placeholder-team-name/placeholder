@@ -16,7 +16,7 @@
 - [x] ~After the aforementioned half a second, the logo will animate and move upwards to the top quarter of the screen, with a “Continue with Google” button taking its place if user is not signed in.~
   - **REMOVED** because of the same reason as the last one.
 - [x] The “Continue with Google” button has the ~application’s~ Google's primary color ~(which has yet to be determined)~, ~will change the user’s cursor to a pointer on desktop devices, and will be darkened on mousedown/touchdown on top of the button.~
-- **REVISED** we use Google's colors to meet their brand requirements and did not deem hover effects important enough from a UX perspective to implement.
+  - **REVISED** we use Google's colors to meet their brand requirements and did not deem hover effects important enough from a UX perspective to implement.
 - [x] When the “Continue with Google” button is clicked on, the page will ~redirect to~ pop up Google’s sign in page. Upon successful sign in, the user will be ~redirected~ taken back to the application.
   - **REVISED** because a pop up window with Firebase is more supported than a redirect sign in and is just as convenient. 
 - [x] Software's user registration and sign in must be handled by Google authentication. The user is authenticated once signed in.
