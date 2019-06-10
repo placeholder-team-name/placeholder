@@ -53,21 +53,21 @@
 - [x] Software must support input of plain text and all images towards the user's newsletter.
   - **COMPLETE**
 - [x] If the user’s image is greater than 10 MB or there is an error uploading the image, an error box will appear over the write content and above the “send” button that says “Failed to upload image” along with “Image too big” if the image was too big or “An error occurred” if an error occurred.
- - **COMPLETE**
+  - **COMPLETE**
 - [x] Software must allow the user to see the contents of their notebook for the current month under the Preview tab.
- - **COMPLETE**
+  - **COMPLETE**
 
 ## Recipients
 - [X] Software must allow authenticated users to add contact information containing name and email to their list of recipients under the Recipients page (accessible through the nav bars).
- - **COMPLETE**
+  - **COMPLETE**
 - [X] App will alert the user on current screen if duplicate recipients are added as well as any emails that are invalid for a recipient
- - **COMPLETE**
+  - **COMPLETE**
 - [X] All recipients will have a first name and email address. Last name is optional.
- - **COMPLETE**
+  - **COMPLETE**
 - [X] App will alert the user on current screen if recipient is missing any required fields and will persist until user fixes issue.
- - **COMPLETE**
+  - **COMPLETE**
 - [X] Software must allow the user to edit recipients at any point the user wants to using by tapping on the recipient.
- - **COMPLETE**
+  - **COMPLETE**
 
 ## Send
 - [x] Software must allow authenticated user to send their notebook with all the data from the user’s current month as an email at any time before the end of the current month
@@ -79,10 +79,10 @@
 - [x] Software shows a preview of the email to the user and requires user to hit a confirmation button on the header bar before formally sending
   - **REVISED** Technically the preview functionality is the Preview button. Only after clicking the Preview button, the user can Send, which acts as a confirmation itself.
 - [x] The software must send a responsive output of the notebook in the email, mirroring the contents of the preview tab, to a recipient list that the user defines.
- - **COMPLETE** The contents of email can be viewed in the email sent to recipients.
+  - **COMPLETE** The contents of email can be viewed in the email sent to recipients.
 
 ## Push Notifications
 - [x] Software must prompt the authenticated user to receive any and all push notifications from the application.
- - **COMPLETE**
+  - **COMPLETE**
 - [x] The software will still allow usage of the application without push notifications. ~but will notify the user to enable them on startup.~
   - **REVISED** For better user experience, we do not prompt the user again after the initial prompt. They can go back to the settings to re-enable them.
